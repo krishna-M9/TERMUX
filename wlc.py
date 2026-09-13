@@ -7,7 +7,7 @@ c = random.choice(colors)
 # Terminal style boot sequence
 messages = [
     f"{c}[*] INITIALIZING ROOT PROTOCOLS... ACCESS GRANTED.\033[0m\n",
-    f"{c}[+] Welcome back to the grid, MixyZx.\033[0m\n"
+    f"{c}[+] Welcome back to the grid, Krishna.\033[0m\n"
 ]
 
 for msg in messages:
